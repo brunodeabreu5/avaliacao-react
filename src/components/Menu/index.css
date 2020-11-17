@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  color: #fff;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: Arial, "Helvetica";
+}
+ul li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu:hover {
+  color: black;
+}
